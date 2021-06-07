@@ -1,4 +1,4 @@
-# Сбербанк REST API для Yii2
+# Сбербанк REST API для Laravel 8
 
 ## Настройка
 
